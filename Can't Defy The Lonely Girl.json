@@ -5,28 +5,12 @@
   "author": "",
   "cover": "https://cdn.myanimelist.net/images/manga/2/246835.jpg",
   "chapters": {
-    "1": {
-      "title": "1",
-      "volume": "1",
-      "last_updated": "1680588164",
+    "5": {
+      "title": "5",
+      "volume": "",
+      "last_updated": "1680593289",
       "groups": {
-        "": "/proxy/api/imgur/chapter/hiHvbbO"
-      }
-    },
-    "2": {
-      "title": "2",
-      "volume": "1",
-      "last_updated": "1680588283",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/g4Ml8zk"
-      }
-    },
-    "3": {
-      "title": "3",
-      "volume": "1",
-      "last_updated": "1680589388",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/kzck9a6"
+        "": "/proxy/api/imgur/chapter/ZguTHMb"
       }
     }
   }
